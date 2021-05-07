@@ -1,0 +1,8 @@
+https://docs.github.com/en/actions/learn-github-actions/migrating-from-jenkins-to-github-actions
+
+https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action
+
+https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions
+
+https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners
+
